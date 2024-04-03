@@ -1,1 +1,1 @@
-# Timered-Extension-A-Safety-Tool-That-Controls-Electricity
+This is our code for the timered extension for our Investigatory project
